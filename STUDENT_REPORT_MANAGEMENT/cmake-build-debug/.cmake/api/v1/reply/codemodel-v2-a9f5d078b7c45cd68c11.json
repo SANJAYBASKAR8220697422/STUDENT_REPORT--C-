@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/CLionProjects/STUDENT_REPORT_MANAGEMENT/cmake-build-debug",
-		"source" : "D:/CLionProjects/STUDENT_REPORT_MANAGEMENT"
+		"build" : "D:/CLionProjects/STUDENT_REPORT--C-/STUDENT_REPORT_MANAGEMENT/cmake-build-debug",
+		"source" : "D:/CLionProjects/STUDENT_REPORT--C-/STUDENT_REPORT_MANAGEMENT"
 	},
 	"version" : 
 	{

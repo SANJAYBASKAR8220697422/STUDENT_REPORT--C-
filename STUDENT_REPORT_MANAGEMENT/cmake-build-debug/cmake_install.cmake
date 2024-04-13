@@ -1,4 +1,4 @@
-# Install script for directory: D:/CLionProjects/STUDENT_REPORT_MANAGEMENT
+# Install script for directory: D:/CLionProjects/STUDENT_REPORT--C-/STUDENT_REPORT_MANAGEMENT
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/CLionProjects/STUDENT_REPORT_MANAGEMENT/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/CLionProjects/STUDENT_REPORT--C-/STUDENT_REPORT_MANAGEMENT/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
