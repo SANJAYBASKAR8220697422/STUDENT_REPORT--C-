@@ -1,0 +1,33 @@
+Usage of multimap:
+
+In the Student Grade Report Management System project, a multimap data structure is used to store and manage student data for each class. Here's how multimap is utilized:
+
+Data Storage:
+
+The multimap is used to store student information such as name, grade, and marks for each class.
+Each class has its own multimap instance, allowing the system to manage student data separately for different classes.
+
+Key-Value Pair:
+
+In the multimap, the student name serves as the key, and the Student object (containing grade and marks) serves as the value.
+This key-value pair structure allows for efficient storage and retrieval of student information based on their names.
+
+Multiple Students with Same Name:
+
+Since student names may not be unique within a class, multimap allows storing multiple key-value pairs with the same key (student name).
+This enables the system to handle cases where multiple students have the same name without losing any data.
+
+Ordered Storage:
+
+multimap maintains its elements in a sorted order based on the key (student name) by default.
+This ensures that student data is stored in alphabetical order of names, facilitating easy lookup and retrieval of student information.
+
+Efficient Operations:
+
+multimap provides efficient operations for insertion, removal, and retrieval of elements.
+This allows the system to quickly add new students, remove existing students, and display student reports without compromising performance.
+
+Flexibility:
+
+multimap offers flexibility in handling student data, allowing for dynamic updates and modifications as needed.
+Teachers can easily manage student records and perform necessary operations without constraints imposed by the data structure.
